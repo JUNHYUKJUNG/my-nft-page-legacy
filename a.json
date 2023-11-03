@@ -1,0 +1,19 @@
+{
+  "name": "junhyukjung",
+  "description": "signature",
+  "image": "",
+  "attributes": [
+    {
+      "trait_type": "language",
+      "value": "korean"
+    },
+    {
+      "trait_type": "color",
+      "value": "black"
+    },
+    {
+      "trait_type": "description",
+      "value": "signature"
+    }
+  ]
+}
